@@ -1,6 +1,6 @@
 **Australian Superannuation : Technology Risk in Change & Digital Control Governance**
 
-**Overview**
+**Overview:**
 Governance of technology change across a regulated superannuation digital environment covering the member mobile application, public website, secure member portal, MFA, platform upgrades and production releases.
 
 **GRC Activities & Controls**
