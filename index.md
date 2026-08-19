@@ -6,7 +6,7 @@ Technology Risk and GRC professional with experience across regulated financial 
 
 **Selected Case Studies**
 
-**01: Technology Risk in Change & Digital Control Governance**
+**[01: Technology Risk in Change & Digital Control Governance](super-risk-in-change.md)**
 
   Australian Superannuation
 
